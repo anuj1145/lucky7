@@ -1,0 +1,2 @@
+1. Please add database file from root repository
+2. config the database name in .env file
